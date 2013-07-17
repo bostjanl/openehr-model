@@ -1,0 +1,13 @@
+.idea/
+target/
+*.properties
+!*-i18n*properties
+*.iml
+*.ipr
+*.log*
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
